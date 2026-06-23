@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xpBOQjCGQyO1QdIUVAac4K3pv3aBNoeJ1HdKieyGssJzXJDYGPrmZ2y8Rmcfe+GCyw+aouK3+6exWr3q58hnqQ==",
+  "success": true,
+  "projectFilePath": "/Users/venkateshgattupalli/Downloads/week-1/Parent project code/CalcLibrary/CalcLibrary/CalcLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/venkateshgattupalli/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/venkateshgattupalli/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
